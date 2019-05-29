@@ -49,3 +49,6 @@ docs/export/*
 
 # Optional REPL history
 .node_repl_history
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
